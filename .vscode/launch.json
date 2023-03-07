@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://file:///media/vinay/48248854248846C2/Web%20development/window%20object/index.html",
+            "request": "launch",
+            "url": "http://file:///media/vinay/48248854248846C2/Web%20development/window%20object/index.html"
+        }
+    ]
+}
